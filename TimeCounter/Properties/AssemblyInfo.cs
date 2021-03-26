@@ -8,9 +8,9 @@ using System.Windows;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("TimeCounter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Ten thousand hours theory")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("nekopg")]
 [assembly: AssemblyProduct("TimeCounter")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
